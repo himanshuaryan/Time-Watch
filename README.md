@@ -11,6 +11,8 @@
 <p><b>Digital Clock</b></p>
 <a href='digital_watch.py'>Last Updated</a>
 The provided Python code creates a digital clock that displays the current time, date, and a greeting based on the time of day. It uses the turtle module to draw the clock's elements and the time module to obtain the current time. The code includes functions for drawing the clock's layout, displaying the date, writing greetings, and showing the current time. The main function controls the execution of the clock, continuously updating the display.
+  <br>
 <ol>
-  <li><a href='digital_watch.py'>First Trial</a></li><hr><hr>
+  <li><a href='digital_watch.py'>First Trial</a></li>
+<hr><hr>
 <p>Author : <b><a href="https://github.com/himanshuaryan">Himanshu Aryan</a></b></p>

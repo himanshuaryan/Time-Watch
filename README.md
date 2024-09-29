@@ -3,10 +3,11 @@
 <a href="https://github.com/himanshuaryan/Time-Watch/blob/main/version_2.py">Last Updated<a/>
 <p>This code creates a <strong>Analogue Clock</strong> using the <i>turtle</i> module in Python. It displays the current time in hours, minutes, and seconds, and updates every second. The clock has hour, minute, and second hands, and also displays the time in a <b>digital format</b> at the top of the screen. The code is organized into separate functions for better modularity and readability.</p>
 <ol>
-<li><a href="simple_clock.py">First Trial</a></li>
-<li><a href="analogue_clock.py">Second Trial</a></li>
-<li><a href="simple_analogue_clock.py">Third Trial</a></li>
-<li><a href="version_1(2).py">Fourth Trial</a></li>
+  <li><a href="simple_clock.py">First Trial</a></li>
+  <li><a href="analogue_clock.py">Second Trial</a></li>
+  <li><a href="simple_analogue_clock.py">Third Trial</a></li>
+  <li><a href="version_1(2).py">Fourth Trial</a></li>
+  <li><a href="https://github.com/himanshuaryan/Time-Watch/blob/main/version_2.py">Fifth Trial</li>
 </ol> <br><hr>
 <p><b>Digital Clock</b></p>
 <a href='digital_watch.py'>Last Updated</a><br>
@@ -15,5 +16,6 @@ The provided Python code creates a digital clock that displays the current time,
 <ol>
   <li><a href='digital_watch.py'>First Trial</a></li>
 </ol>
-<hr><hr>
+<hr>
 <p>Author : <b><a href="https://github.com/himanshuaryan">Himanshu Aryan</a></b></p>
+<hr>
